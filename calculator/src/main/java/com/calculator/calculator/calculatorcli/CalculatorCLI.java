@@ -22,7 +22,7 @@ public class CalculatorCLI implements ApplicationRunner {
         }
     }
 
-    private void runCLI() {
+    public void runCLI() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("CLI Calculator started. Enter 'exit' to quit.");
 
