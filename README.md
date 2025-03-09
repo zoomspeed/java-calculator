@@ -39,10 +39,6 @@ calculator/
 │       ├── CalculatorApplicationTests.java  # 메인 애플리케이션 테스트
 │       ├── calculatorcli/
 │       │   └── CalculatorCLITests.java      # CLI 모드 테스트
-│       ├── controller/
-│       │   └── CalculatorControllerTests.java  # REST API 테스트
-│       ├── service/
-│       │   └── CalculatorServiceTests.java  # 연산 로직 테스트
 │       ├── operation/
 │       │   └── OperationFactoryTest.java    # 연산자 매핑 테스트
 ```
