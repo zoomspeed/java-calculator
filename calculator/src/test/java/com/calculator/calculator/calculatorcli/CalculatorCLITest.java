@@ -8,7 +8,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import static org.junit.jupiter.api.Assertions.*;
 
-class CalculatorCLITests {
+class CalculatorCLITest {
 
     private CalculatorCLI calculatorCLI;
     private ByteArrayOutputStream outContent;
