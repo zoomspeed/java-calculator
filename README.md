@@ -94,6 +94,6 @@ OperationFactoryTests → 연산자 매핑 검증
 ```
 
 ### 테스트 실행 예시
-![img.png](img.png)
+![img.png](./calculator/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](./calculator/img_1.png)
