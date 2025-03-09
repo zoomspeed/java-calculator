@@ -1,8 +1,11 @@
 package com.calculator.calculator.operation;
 
+import org.springframework.stereotype.Component;
+
 import java.util.HashMap;
 import java.util.Map;
 
+@Component
 public class OperationFactory {
     private static final Map<String, Operation> operations = new HashMap<>();
 
